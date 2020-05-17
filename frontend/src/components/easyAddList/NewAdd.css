@@ -1,0 +1,20 @@
+.newAdd {
+    width: 100%;
+    display: flex;
+    padding: 5px 3px;
+}
+
+.add-btn {
+    font-size: 4.1rem;
+    border: none;
+    margin-left: 10px;
+    font-weight: 900;
+}
+
+.form-control {
+    font-size: 1.6rem;
+    border-radius: 18px;
+    height: 38px;
+    width: 100%;
+    padding-left: 15px;
+}

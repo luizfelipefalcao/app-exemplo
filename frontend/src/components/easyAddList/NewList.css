@@ -1,0 +1,93 @@
+.custom-table {
+    margin-top: 15px;
+}
+
+.custom-body .tr-custom {
+    display: flex;
+    padding: 5px 0;
+    font-size: 1.8rem;
+    min-width: 100%;
+    max-width: 100%;
+}
+
+.tr-custom .td-custom {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    min-width: 80%;
+    max-width: 80%;
+    overflow: hidden;
+    border-bottom: 1px dotted rgba(169, 169, 169, 0.5);
+}
+
+.td-btn {
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    min-width: 20%;
+    max-width: 20%;
+}
+
+.btn-success {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-success:hover {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+}
+
+.fa-check {
+    color: rgb(0, 128, 0);
+    font-size: 1.5rem;
+}
+
+.fa-check:hover {
+    font-weight: 1000;
+}
+
+.btn-warning {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-warning:hover {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+}
+
+.fa-undo {
+    font-size: 1.5rem;
+    color: rgb(233, 203, 8);
+}
+
+.fa-undo:hover {
+    font-weight: 1000;
+}
+
+.btn-danger {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+    padding-left: 0;
+}
+
+.btn-danger:hover {
+    background-color: transparent;
+    border: none;
+    border-radius: 5px;
+}
+
+.fa-trash-o {
+    color: rgb(217, 40, 30);
+    font-size: 1.7rem;
+}
+
+.fa-trash-o:hover {
+    font-weight: 900;
+}
