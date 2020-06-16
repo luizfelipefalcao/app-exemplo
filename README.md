@@ -1,1 +1,1 @@
-# easyadd list app
+# easy add list app
