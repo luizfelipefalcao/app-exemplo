@@ -1,16 +1,34 @@
-This project uses NodeJS and MongoDB (database) on backend, and ReactJS and Webpack on frontend.
 
-Setup:
+This project was bootstrapped with Create React App.
 
-1. Download the folder/git clone the repo
+## What is inside?
 
-2. cd directory of the folder (both backend and frontend)
+This project uses lot of stuff as:
 
-3. npm install or yarn install (both backend and frontend)
+- MongoDB
+- Webpack
+- Babel
+- MongoDB
 
-4. npm dev or yarn dev (backend)
+## Getting Started
 
-5. npm start or yarn start (frontend)
+First, run the development server:
 
-Access localhost:3000 on your browser
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+
+## Commands
+
+- `dev`: runs your application on `localhost:3000`
+- `build`: creates the production build version
+- `start`: starts a simple server with the build production code
+
+
 
