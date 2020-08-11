@@ -35,8 +35,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Commands
 
-- `dev`: runs nodemon on `localhost:3000`
-- `start`: starts the application
+- `dev`: runs nodemon
+- `start`: starts the application on `localhost:3000`
 
 
 
