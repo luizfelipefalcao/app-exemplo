@@ -35,9 +35,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Commands
 
-- `dev`: runs your application on `localhost:3000`
-- `build`: creates the production build version
-- `start`: starts a simple server with the build production code
+- `dev`: runs nodemon on `localhost:3000`
+- `start`: starts the application
 
 
 
